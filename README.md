@@ -1,4 +1,4 @@
-<b>Following are the Soft Skill / non-technical slides for your review:</b>
+<b>Following are the Soft Skill / non-technical job search curriculum slides for your review:</b>
 
 [Applying Approaches and Online Presence](https://github.com/Eliblair/job-search-lecture-slides/blob/master/Applying%20Approaches%20Online%20Presence.pdf)
 
@@ -6,7 +6,7 @@
 
 [Cover Letters and Written Presence](https://github.com/Eliblair/job-search-lecture-slides/blob/master/Cover%20Letters%20and%20Written%20Presence.pdf)
 
-[Negotiations] (https://github.com/Eliblair/job-search-lecture-slides/blob/master/Negotiations.pdf)
+[Negotiations](https://github.com/Eliblair/job-search-lecture-slides/blob/master/Negotiations.pdf)
 
 [Networking](https://github.com/Eliblair/job-search-lecture-slides/blob/master/Networking%20Lecture.pdf)
 
